@@ -129,7 +129,7 @@ The Coinbase Support team is responsible for:
 
 4. Assisting with technical problems, such as login or connectivity issues.
 
-You can typically contact Coinbase Support through here</p>
+You can typically contact Coinbase Support through here.</p>
           </div>
         `
         break
